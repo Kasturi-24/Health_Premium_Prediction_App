@@ -133,11 +133,3 @@ Health_Premium_Prediction_App/
 3. Extend the app to provide insights into policy recommendations based on user data.
 
 
-## Author
-**A S Punith**  
-Software Engineer | Machine Learning 
-[LinkedIn](https://www.linkedin.com/in/a-s-kasturi-a5805a296/) | [GitHub](https://github.com/Kasturi-24)
-
----
-
-
