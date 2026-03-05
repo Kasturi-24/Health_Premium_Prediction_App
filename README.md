@@ -59,7 +59,7 @@ The dataset contains anonymized information about individuals, including:
 - Insurance Plan Type
 
 **In-Depth Analysis**:
-A detailed analysis of the dataset is available in the [Jupyter Notebook](https://github.com/aspunith/Health_Premium_Prediction_App) under the `Notebooks and Datasets` section.
+A detailed analysis of the dataset is available in the [Jupyter Notebook](https://github.com/Kasturi-24/Health_Premium_Prediction_App) under the `Notebooks and Datasets` section.
 
 ---
 
@@ -76,7 +76,7 @@ A detailed analysis of the dataset is available in the [Jupyter Notebook](https:
 1. Install Python 3.8 or higher.
 2. Clone the repository:
    ```bash
-   git clone https://github.com/aspunith/Health_Premium_Prediction_App.git
+   git clone https://github.com/Kasturi-24/Health_Premium_Prediction_App.git
    ```
 3. Navigate to the project directory:
    ```bash
@@ -136,7 +136,7 @@ Health_Premium_Prediction_App/
 ## Author
 **A S Punith**  
 Software Engineer | Machine Learning 
-[LinkedIn](https://www.linkedin.com/in/aspunith) | [GitHub](https://github.com/aspunith)
+[LinkedIn](https://www.linkedin.com/in/a-s-kasturi-a5805a296/) | [GitHub](https://github.com/Kasturi-24)
 
 ---
 
